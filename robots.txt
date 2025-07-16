@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djamalyassirmahamat.github.io/Fatime-/sitemap.xml
